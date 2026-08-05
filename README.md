@@ -16,7 +16,10 @@ Markdown สำหรับ กิจกรรม สอน AI ครั้ง�
 
 ### 🔗 ลิงก์ทดลองเล่น AI ของพวกเรา
 
+#### ลิงค์ตัว model
 [https://teachablemachine.withgoogle.com/models/xfHKpjmP7/]  
+#### ลิงค์วิดิโอ Youtube
+[https://youtu.be/-9mpgiRh-Kw]
 
 ธีมที่ 4: "เป่ายิ้งฉุบระดับสากล" (Rock-Paper-Scissors)
 
